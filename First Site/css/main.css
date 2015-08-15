@@ -1,0 +1,21 @@
+.firstdiv {
+	color:red;
+	background-color:green;
+	width:30%;
+	float: left;
+	border:1px solid black;
+}
+
+.seconddiv {
+	color:blue;
+	background-color:red;
+	width: 30%;
+	float: left;
+}
+
+.thirddiv {
+	color:green;
+	background-color:blue;
+	width: 50%;
+	float: left;
+}
